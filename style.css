@@ -1,0 +1,55 @@
+.banner {
+    background: url("https://i.pinimg.com/originals/2e/f0/e6/2ef0e6649c833ae65d78e3cab875c4ee.gif"); no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+}
+
+.lingkaran{
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    color: #fff;
+    background-color: aqua;
+}
+
+.lingkaran i{
+position: relative;
+top: 30px;
+}
+
+.crop-img{
+    object-fit: cover;
+
+}
+
+.Tim img{
+    width: 250px;
+    border: 10px solid #cccc;
+}
+
+a.social{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    color: #fff;
+    border-radius: 50%;
+    background-color: black;
+    line-height: 40px;
+}
+
+.client img{
+    height: auto;
+    max-height: 50px;
+}
+
+.kontak{
+    background: url(https://wallpaperaccess.com/full/1867010.jpg) no-repeat center center;
+    background-size: cover;
+    padding-bottom: 20%;
+    padding-top: #fff;
+    color: #fff;
+}
